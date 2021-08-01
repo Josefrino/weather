@@ -5,8 +5,6 @@
 * There are still things left to implement but the overall functionality and logics are there
 
 ## Getting Started
-
-##
 <img src="https://github.com/Josefrino/weather/blob/master/main_screen.jpg" width="320">
 <img src="https://github.com/Josefrino/weather/blob/master/search_screen.jpg" width="320">
 <img src="https://github.com/Josefrino/weather/blob/master/forecast_screen.jpg" width="320">
