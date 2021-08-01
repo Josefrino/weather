@@ -6,6 +6,11 @@
 
 ## Getting Started
 
+##
+<img src="https://github.com/Josefrino/weather/blob/master/main_screen.jpg" width="320">
+<img src="https://github.com/Josefrino/weather/blob/master/search_screen.jpg" width="320">
+<img src="https://github.com/Josefrino/weather/blob/master/forecast_screen.jpg" width="320">
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
