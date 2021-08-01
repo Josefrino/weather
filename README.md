@@ -1,6 +1,6 @@
 # weather
 
-* A new Flutter project.
+* A new Flutter project inspired by the design of [Maulana Farhan](https://dribbble.com/shots/15736238-Weather-App-Design-Exploration).
 * This flutter project is an app that gets the user location and uses an api to get the weather based on the user current position.
 * There are still things left to implement but the overall functionality and logics are there
 
